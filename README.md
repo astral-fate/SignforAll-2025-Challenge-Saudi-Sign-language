@@ -23,3 +23,7 @@
 └── trainer.py                      # <--- NEW: Training loop logic
 
 ```
+
+
+![image](https://github.com/user-attachments/assets/917c25c6-3430-4e0a-8cff-f8ca604537f0)
+
