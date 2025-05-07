@@ -27,3 +27,10 @@
 
 ![image](https://github.com/user-attachments/assets/917c25c6-3430-4e0a-8cff-f8ca604537f0)
 
+```
+
+
+having this issue too, upgrading doesn't work
+
+switching evaluation_strategy to eval_strategy worked
+```
